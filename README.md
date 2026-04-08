@@ -18,7 +18,7 @@ Introductory Image processing steps and tutorials can be found at <https://githu
 # wildcat_main Script Overview 
 The main script uses the calibration capture to generate 5 band reflectance outputs for every capture in your imageset. During batch processing of an imageset, extra 'functionland' operations may be performed i.e. pixel listing, grayscale processing, multispectral indexes.
 
-## 🌱🟤 functionland Script Overview
+## functionland Script Overview
 
 *Functionland Script contains special functions called by main Scripts for performing further multispectral image processing, vegetation & sediment index computation, and pixel-level ML analysis.*
 
@@ -31,7 +31,7 @@ This toolkit is designed for researchers, geologists, and civil engineers workin
 ---
 
 
-# 📘 Function Guide
+# Function Guide
 
 Below is a friendly overview of the functions included in this repository.
 Use it as a quick reference for what each function does and how it fits into your workflow.
